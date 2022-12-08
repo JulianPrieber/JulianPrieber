@@ -9,7 +9,7 @@
 
 # 👋 Hi!
 
-Hi there! My name is Julian Prieber, and I am an electrical engineering student and self-taught web developer. I am also a big fan of Beat Saber and enjoy tinkering with my Homelab in my free time. In fact, some might even call me a Pirate Legend in the Homelab community!
+Hi there! My name is Julian Prieber, and I am an electrical engineering student and self-taught web developer. I am also a big fan of Beat Saber and enjoy tinkering with my Homelab in my free time.
 
 I am self-taught in everything I do, and I use GitHub to expand my skills and learn everything I can. I am passionate about technology and love using my skills to build and create new things. Whether it's working on a project for a class, tinkering with my Homelab, or learning a new skill on GitHub, I am always looking for ways to improve and challenge myself.
 

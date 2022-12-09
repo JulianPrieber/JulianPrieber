@@ -15,10 +15,12 @@ I am self-taught in everything I do, and I use GitHub to expand my skills and le
 
 # 🧑‍💻 My open source repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianprieber&repo=littlelink-custom&theme=radical)](https://github.com/JulianPrieber/littlelink-custom)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianprieber&repo=llc-docker&theme=radical)](https://github.com/JulianPrieber/llc-docker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianprieber&repo=llc-themes&theme=radical)](https://github.com/JulianPrieber/llc-themes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianprieber&repo=llc-default&theme=radical)](https://github.com/JulianPrieber/llc-default)
+<p align="center">
+<a href="https://github.com/JulianPrieber/littlelink-custom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julianprieber&repo=littlelink-custom&theme=radical"></a>
+<a href="https://github.com/JulianPrieber/llc-docker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julianprieber&repo=llc-docker&theme=radical"></a>
+<a href="https://github.com/JulianPrieber/llc-themes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julianprieber&repo=llc-themes&theme=radical"></a>
+<a href="https://github.com/JulianPrieber/llc-default"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julianprieber&repo=llc-default&theme=radical"></a>
+</p>
 
 # 📊 My Stats
 

@@ -1,7 +1,6 @@
 [![jp](https://user-images.githubusercontent.com/60265788/206552184-713618bf-7dda-4107-a527-226d78834e40.png)](#)
 
 [![GitHub followers](https://img.llc.ovh/github/followers/julianprieber?logo=GitHub&style=for-the-badge)](https://github.com/JulianPrieber)
-[![GitHub Stars](https://img.llc.ovh/github/stars/julianprieber?logo=github&style=for-the-badge)](https://github.com/JulianPrieber/littlelink-custom/stargazers)
 [![Discord Invite](https://img.llc.ovh/discord/955765706111193118?color=4A55CC&label=Discord&logo=discord&style=for-the-badge)](https://discord.littlelink-custom.com/)
 [![GitHub Sponsors](https://img.llc.ovh/github/sponsors/julianprieber?color=BF4B8A&logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/JulianPrieber)
 [![Support me on Patreon](https://img.llc.ovh/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Djulianprieber%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/JulianPrieber)
